@@ -1,1 +1,0 @@
-# ResNet model definition
